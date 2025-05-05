@@ -1,0 +1,12 @@
+# ─ ignore everything
+*
+
+# ─ but do not ignore this .gitignore
+!.gitignore
+
+# ─ allow Git to recurse into directories
+!*/
+
+# ─ unignore all .sql files (in root and subfolders)
+!*.sql
+!**/*.sql
