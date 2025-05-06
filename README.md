@@ -6,17 +6,17 @@ A comprehensive collection of T‑SQL scripts for exploratory data analysis, met
 
 ## 📑 Table of Contents
 
-1. [Overview](#overview)  
-2. [Project Structure](#project-structure)  
-3. [Datasets](#datasets)  
-4. [Scripts](#scripts)  
+1. [Overview](#-overview)  
+2. [Project Structure](#-project-structure)  
+3. [Datasets](#%EF%B8%8F-datasets)  
+4. [Scripts](#%EF%B8%8F-scripts)  
    - [Database Initialization & EDA](#database-initialization--eda)  
    - [Sales Over Time Analysis](#sales-over-time-analysis)  
    - [Segmentation Analysis](#segmentation-analysis)  
    - [Customer Report](#customer-report)  
    - [Product Report](#product-report)  
-5. [Usage](#usage)  
-6. [License](#license)  
+5. [Usage](#-usage)  
+6. [License](#%EF%B8%8F-license)  
 
 ---
 
@@ -31,9 +31,9 @@ This repository provides a suite of SQL scripts that:
 - Generate two final reporting views: `gold.report_customers` and `gold.report_products`
 
 ---
-```
-## 📂 Project Structure
 
+## 📂 Project Structure
+```
 sql_sales_analytic/
 │
 ├── datasets/
